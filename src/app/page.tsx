@@ -14,6 +14,8 @@ const instruments: Record<string, number> = {
   NQ: 20,
   MicroYM: 0.5,
   YM: 5,
+  CL: 10,
+  GC: 100,
 };
 
 export default function Home() {
